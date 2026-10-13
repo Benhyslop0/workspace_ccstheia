@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Blink LED",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Blink LED",
+                "resourceId": "/Blink LED"
+            }
+        },
+        {
+            "name": "AOCL system lab1 EE579",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "AOCL system lab1 EE579",
+                "resourceId": "/AOCL system lab1 EE579"
+            }
+        },
+        {
+            "name": "Lab 2 blinking led for 1.5 seconds",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab 2 blinking led for 1.5 seconds",
+                "resourceId": "/Lab 2 blinking led for 1.5 seconds"
+            }
+        }
+    ]
+}
