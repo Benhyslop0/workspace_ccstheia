@@ -27,6 +27,15 @@
                 "name": "Lab 2 blinking led for 1.5 seconds",
                 "resourceId": "/Lab 2 blinking led for 1.5 seconds"
             }
+        },
+        {
+            "name": "Lab 3 Klaxon alarm",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Lab 3 Klaxon alarm",
+                "resourceId": "/Lab 3 Klaxon alarm"
+            }
         }
     ]
 }
